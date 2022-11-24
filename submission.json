@@ -1,0 +1,4 @@
+{
+    "dockerhub-id": "scottyang17/dm:initial",
+    "build-script": "python run.py"
+}
