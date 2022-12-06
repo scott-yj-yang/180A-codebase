@@ -1,0 +1,6 @@
+{
+	"--cuda": "True",
+	"--domain_name": "hopper",
+	"--task_name": "hop",
+	"--hidden_size": 1024
+}

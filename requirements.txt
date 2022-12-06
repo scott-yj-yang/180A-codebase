@@ -1,0 +1,3 @@
+# details can be found on the docker image scottyang17/dm:latest
+dm_control
+matplotlib
